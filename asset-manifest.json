@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Chorus-lapilli/static/css/main.74acce42.css",
-    "main.js": "/Chorus-lapilli/static/js/main.6c02baa7.js",
-    "static/js/787.27ea5546.chunk.js": "/Chorus-lapilli/static/js/787.27ea5546.chunk.js",
-    "index.html": "/Chorus-lapilli/index.html",
-    "main.74acce42.css.map": "/Chorus-lapilli/static/css/main.74acce42.css.map",
-    "main.6c02baa7.js.map": "/Chorus-lapilli/static/js/main.6c02baa7.js.map",
-    "787.27ea5546.chunk.js.map": "/Chorus-lapilli/static/js/787.27ea5546.chunk.js.map"
+    "main.css": "/Chorus-lapilli-tto/static/css/main.74acce42.css",
+    "main.js": "/Chorus-lapilli-tto/static/js/main.147c481c.js",
+    "static/js/787.27ea5546.chunk.js": "/Chorus-lapilli-tto/static/js/787.27ea5546.chunk.js",
+    "index.html": "/Chorus-lapilli-tto/index.html",
+    "main.74acce42.css.map": "/Chorus-lapilli-tto/static/css/main.74acce42.css.map",
+    "main.147c481c.js.map": "/Chorus-lapilli-tto/static/js/main.147c481c.js.map",
+    "787.27ea5546.chunk.js.map": "/Chorus-lapilli-tto/static/js/787.27ea5546.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74acce42.css",
-    "static/js/main.6c02baa7.js"
+    "static/js/main.147c481c.js"
   ]
 }
